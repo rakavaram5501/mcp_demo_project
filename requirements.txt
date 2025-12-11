@@ -1,0 +1,17 @@
+# LangChain dependencies
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-core==0.1.10
+langchain-openai==0.0.2
+
+# LangGraph dependencies
+langgraph==0.0.20
+
+# Additional dependencies
+python-dotenv==1.0.0
+openai==1.6.1
+tiktoken==0.5.2
+
+# Jupyter notebook
+jupyter==1.0.0
+ipykernel==6.27.1
